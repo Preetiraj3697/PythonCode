@@ -1,5 +1,5 @@
 print("Hello world")
-#please dont remove this line
+# please don't remove this line
 # """
 # multi
 # linecache
@@ -19,8 +19,8 @@ print(int(var1)+int(var4))
 # str() int() float()
 print(10*"Hello world\n")
 print("Enter your number")
-# inpnum = input()
-# print("you entered",int(inpnum)*10);
+# in = input()
+# print("you entered",int(in)*10);
 """First calculator"""
 print("Enter first number")
 n1=input()
